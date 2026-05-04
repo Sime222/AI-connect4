@@ -7,7 +7,7 @@ A Python implementation of the classic **Connect 4** game built with **Pygame**,
 
 * Two-player mode (Player vs Player)
 * Single-player mode (Player vs AI)
-* AI opponent using **Minimax Algorithm** with **Alpha-Beta Pruning**
+* AI opponent using **Minimax Algorithm** 
 * Score tracking system
 * Interactive graphical user interface (GUI)
 * Win detection (horizontal, vertical, diagonal)
@@ -92,7 +92,7 @@ python main.py
 The AI uses:
 
 * **Minimax Algorithm**
-* **Alpha-Beta Pruning**
+
 * Board evaluation scoring
 
 This allows the AI to make strategic moves and block the player.
